@@ -5,23 +5,28 @@ CitiBike is a bicycle sharing service located in New York city. It is a profitab
 # Results:
 For this analysis we created 7 different visualizations with Tableau: Checkout Times for Users, Checkout Times by Gender, Trips by Weekday for Each Hour, Trips by Gender (Weekday per Hour), User Trips by Gender by Weekday, Top Starting Locations and Top Ending Locations. These 7 visualizations have allowed me to make certain conclusions regarding the data.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]( https://github.com/quorinne/bikesharing/blob/main/bikesharing/Images/CheckoutOverall.png?raw=true)
 
 According to the visualization above checkout times hit a high peak at around 5 minutes. This indicates that many people change their minds shortly after renting a bike.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]( https://github.com/quorinne/bikesharing/blob/main/bikesharing/Images/CheckoutByGender.png?raw=true)
 
 This visualization indicates that there are more male customers than female customers and that both groups hit a checkout peak around 5minutes. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]( https://github.com/quorinne/bikesharing/blob/main/bikesharing/Images/tripsWeekday.png?raw=true)
 
 The above visualization lets us see the busiest hours of each weekday. In it we can see that Weekdays get most of their customers between the hours of 5am-9am and 5pm – 9pm while they have very few customers between 10am – 4pm. Saturdays and Sundays get most of their customers between 10am-5pm. The slowest period is between 4am-6am for every day of the week.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]( https://github.com/quorinne/bikesharing/blob/main/bikesharing/Images/tripsGenderWeekday.png?raw=true)
 The visualization above is almost exactly like the previous viz but it allows us to see the breakdown of gender. The hours the different gender ride most frequently is the same, but we can see that there are more male customers than female or unknown. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]( https://github.com/quorinne/bikesharing/blob/main/bikesharing/Images/TripsGenderUser.png?raw=true)
 In the visualization above we can see that Male, Female, and Undeclared customers all ride most often on Thursdays than any other day of the week. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+Starting Locations:
+![alt text]( https://github.com/quorinne/bikesharing/blob/main/bikesharing/Images/startinglocation.png?raw=true)
+
+Ending Locations:
+![alt text]( https://github.com/quorinne/bikesharing/blob/main/bikesharing/Images/endinglocations.png?raw=true)
+
 In the Images above we can see a visual representation of starting and ending bike rental locations. In these images we see that the majority of starting locations and ending locations are in the same area. This area happened to be Manhattan which makes sense as it is the busiest part of New York City and a popular tourist destination. 
 
 
